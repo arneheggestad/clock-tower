@@ -1,0 +1,30 @@
+{
+  "name": "hours",
+  "version": "0.0.1",
+  "description": "time tracking",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "gulp": "^3.8.10",
+    "gulp-jscs": "^1.4.0",
+    "gulp-jshint": "^1.9.0",
+    "jshint-stylish-ex": "^0.2.0",
+    "should": "^4.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arneheggestad/hours.git"
+  },
+  "author": "Arne Heggestad <arne.heggestad@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arneheggestad/hours/issues"
+  },
+  "homepage": "https://github.com/arneheggestad/hours"
+}
